@@ -2,7 +2,7 @@
 
 This project uses YOLOv8 and Raspberry Pi 4 to detect human presence and control fans based on zone activation to reduce energy consumption.
 
-**Technologies Used**
+**🔗 Technologies Used**
 
 YOLOv8
 
@@ -14,7 +14,7 @@ Blynk Cloud
 
 Relay Module
 
-**Features**
+** 🔗 Features**
 Real-time person detection
 Zone-based fan control
 Energy calculation & efficiency monitoring
